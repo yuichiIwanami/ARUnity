@@ -1,1 +1,3 @@
 # ARUnity
+
+except Assets Directory
