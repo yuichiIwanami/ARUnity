@@ -1,6 +1,6 @@
 # ARUnity
 
-This is AR application for Android mobile.  
+This is AR application for Android mobile. A T-Rex, a dancing girl, a shark or wizard appears on a ¥1,000 bill and is moving!  
 *except Assets Directory
 
 ## [Demo]
